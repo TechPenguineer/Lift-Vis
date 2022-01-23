@@ -6,4 +6,12 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="semi_symetrical.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="semi_symetrical.png" />
+  </ItemGroup>
+
 </Project>

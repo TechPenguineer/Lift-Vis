@@ -33,5 +33,10 @@
                 </MenuItem>
             </Menu>
         </DockPanel>
+        <Rectangle HorizontalAlignment="Left" Height="2" Margin="176,240,0,0" Stroke="#FF0007A2" VerticalAlignment="Top" Width="704"/>
+
+        <Image HorizontalAlignment="Left" Height="254" Margin="315,111,0,0" VerticalAlignment="Top" Width="449" Source="/semi_symetrical.png" Stretch="Uniform"/>
+        <Rectangle HorizontalAlignment="Left" Height="625" Stroke="White" VerticalAlignment="Top" Width="242" Fill="#FFE0E0E0" RenderTransformOrigin="0,0.5" StrokeThickness="0.2"/>
+
     </Grid>
 </Window>
