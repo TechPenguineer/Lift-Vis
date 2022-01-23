@@ -1,0 +1,9 @@
+
+*.baml
+*.exe
+*.pdb
+*.cache
+*.resources
+*.dll
+*.txt
+*.json
