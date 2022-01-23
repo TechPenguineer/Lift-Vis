@@ -7,3 +7,7 @@
 *.dll
 *.txt
 *.json
+*.user
+app/.vs/app/v16/.suo
+app/.vs/app/v16/.suo
+*.user

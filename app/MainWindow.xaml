@@ -16,10 +16,17 @@
                             <MenuItem Header="_Dark" />
                             <MenuItem Header="_Light" />
                         </MenuItem>
+                    </MenuItem>
+                    <MenuItem Header="_Standards">
+                        <MenuItem Header="_Reset To Default Standards"/>
+                        <MenuItem Header="_Edit Standards"/>
+                    </MenuItem>
+                    <MenuItem Header="_Wings">
+                        <MenuItem Header="_Flat Bottomed"/>
+                        <MenuItem Header="_Semi Symetrical"/>
+                        <MenuItem Header="_Symetrical"/>
 
                     </MenuItem>
-                    <MenuItem Header="_Standards" />
-                    <MenuItem Header="_Visualization" />
                 </MenuItem>
                 <MenuItem Header="_Export">
                     <MenuItem Header="_Run And Export Simulation Results" />
