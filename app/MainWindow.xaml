@@ -10,7 +10,14 @@
         <DockPanel>
             <Menu DockPanel.Dock="Top">
                 <MenuItem Header="_Settings">
-                    <MenuItem Header="_Theme" />
+                    <MenuItem Header="_Theme">
+                        <MenuItem Header="_Reset To Default" />
+                        <MenuItem Header="_Select New Theme">
+                            <MenuItem Header="_Dark" />
+                            <MenuItem Header="_Light" />
+                        </MenuItem>
+
+                    </MenuItem>
                     <MenuItem Header="_Standards" />
                     <MenuItem Header="_Visualization" />
                 </MenuItem>
